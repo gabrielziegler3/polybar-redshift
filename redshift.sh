@@ -1,6 +1,6 @@
 #!/bin/sh
 
-envFile=~/.config/polybar/scripts/env.sh
+envFile=~/.scripts/polybar-redshift/env.sh
 changeValue=300
 
 changeMode() {
